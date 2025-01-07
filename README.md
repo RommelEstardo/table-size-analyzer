@@ -1,4 +1,4 @@
-# table_size_analyzer
+# table-size-analyzer
 
 # SQL Table Size Analysis Tool
 
